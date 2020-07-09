@@ -1,16 +1,13 @@
+<div align="center" style="text-align:center">
+    <img width="1024" src="./assets/umaru.gif">
+</div>
+
 ### Hi there 👋
 
-<!--
-**KurozeroPB/KurozeroPB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [UltraDex](https://github.com/KurozeroPB/UltraDex) | [VSCode Commit Reminder](https://github.com/KurozeroPB/vscode-commit-reminder) | [Jeanne](https://github.com/KurozeroPB/Jeanne) and some private repos
+- 🌱 I’m currently using/still learning Kotlin, TypeScript and VueJS/NuxtJS
+- 💰 I need [sponsors](https://github.com/sponsors/KurozeroPB) to keep my projects maintained
+- 💬 Ask me about anything
+- 📫 How to reach me: root@kurozeropb.info | [@pvdbroek98](https://twitter.com/pvdbroek98) | [Discord](https://discord.gg/p895czC)
+- ⚡ Fun fact(s): I recently started to watch anime again ;3 [AniList](https://anilist.co/user/Aesuki/) | I waste a lot of time on Twitch
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
