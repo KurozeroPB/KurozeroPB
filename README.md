@@ -1,5 +1,5 @@
 <div align="center" style="text-align:center">
-    <img width="1024" src="./assets/umaru.gif">
+    <img width="1024" src="https://raw.githubusercontent.com/KurozeroPB/KurozeroPB/master/assets/umaru.gif">
 </div>
 
 ### Hi there 👋
