@@ -1,6 +1,17 @@
-<div align="center" style="text-align:center">
+<!-- <div align="center" style="text-align:center">
     <img width="1024" src="https://github.com/Pepijn98/Pepijn98/raw/master/assets/umaru.gif">
-</div>
+</div> -->
+
+<table>
+    <tr valign="top">
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=Pepijn98&show_border=false&show_icons=true&title_color=84ffc8&text_color=fe84fd&bg_color=3c345c&icon_color=62ebfe">
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepijn98&show_border=false&show_icons=true&title_color=84ffc8&text_color=fe84fd&bg_color=3c345c&icon_color=62ebfe">
+        </td>
+    </tr>
+</table>
 
 ### Hi there 👋
 
@@ -10,4 +21,3 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: root@kurozeropb.info | [@pvdbroek98](https://twitter.com/pvdbroek98) | [Discord](https://discord.gg/p895czC)
 - ⚡ Fun fact(s): I recently started to watch anime again ;3 [AniList](https://anilist.co/user/Aesuki/) | I waste a lot of time on Twitch
-
