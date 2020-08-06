@@ -5,10 +5,14 @@
 <table align="center">
     <tr valign="top">
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Pepijn98&show_border=false&show_icons=true&title_color=84ffc8&text_color=fe84fd&bg_color=3c345c&icon_color=62ebfe">
+            <a target="_blank" href="https://vdbroek.dev">
+                <img src="https://github-readme-stats.vercel.app/api?username=Pepijn98&show_border=false&show_icons=true&title_color=84ffc8&text_color=fe84fd&bg_color=3c345c&icon_color=62ebfe">
+            </a>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepijn98&show_border=false&show_icons=true&title_color=84ffc8&text_color=fe84fd&bg_color=3c345c&icon_color=62ebfe">
+            <a target="_blank" href="https://vdbroek.dev">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepijn98&show_border=false&show_icons=true&title_color=84ffc8&text_color=fe84fd&bg_color=3c345c&icon_color=62ebfe">
+            </a>
         </td>
     </tr>
 </table>
