@@ -19,9 +19,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [UltraDex](https://github.com/Pepijn98/UltraDex) | [VSCode Commit Reminder](https://github.com/Pepijn98/vscode-commit-reminder) | [Jeanne](https://github.com/Pepijn98/Jeanne) | [Apollo](https://github.com/Pepijn98/Apollo)
-- 🌱 I’m currently using/still learning Kotlin, TypeScript and VueJS/NuxtJS
-- 💰 I need [sponsors](https://github.com/sponsors/Pepijn98) to keep my projects maintained
+- 🔭 I'm mostly working on private projects atm but occationaly will update certain projects like [VSCode Commit Reminder](https://github.com/Pepijn98/vscode-commit-reminder) | [Jeanne](https://github.com/Pepijn98/Jeanne) | [Apollo](https://github.com/Pepijn98/Apollo) | [Lilith](https://github.com/Pepijn98/Lilith) | [Mshu](https://github.com/Pepijn98/Mashu)
+- 🌱 Using/Learning languages/frameworks
+    - I'm activly using Kotlin, TypeScript and VueJS/NuxtJS for backends I always go for ExpressJS
+    - I'm looking into trying new web frameworks like React/NextJS, [Svelte](https://svelte.dev/) and for backends I really wanna learn Python (Django or Flask)
+    - I'm also looking into learning new languages like [Rust](https://www.rust-lang.org/), [Nim](https://nim-lang.org/) and [Julia](https://julialang.org/) they look very interesting to me.
+- 💰 If you like any of my work consider [sponsoring](https://github.com/sponsors/Pepijn98) me so I can keep my projects maintained
 - 💬 Ask me about anything
-- 📫 How to reach me: root@kurozeropb.info | [@aesuki98](https://twitter.com/aesuki98) | [Discord](https://discord.gg/p895czC)
-- ⚡ Fun fact(s): I recently started to watch anime again ;3 [AniList](https://anilist.co/user/Aesuki/) | I waste a lot of time on Twitch
+- 📫 How to reach me: [Email](mailto://pepijn@vdbroek.dev) | [Twitter](https://twitter.com/AsyncSenpai) | [Discord](https://discord.gg/p895czC)
