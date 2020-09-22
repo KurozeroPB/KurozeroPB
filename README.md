@@ -19,7 +19,7 @@
 
 ### Hi there 👋
 
-- 🔭 I'm mostly working on private projects atm but occationaly will update certain projects like [VSCode Commit Reminder](https://github.com/Pepijn98/vscode-commit-reminder) | [Jeanne](https://github.com/Pepijn98/Jeanne) | [Apollo](https://github.com/Pepijn98/Apollo) | [Lilith](https://github.com/Pepijn98/Lilith) | [Mshu](https://github.com/Pepijn98/Mashu)
+- 🔭 I'm mostly working on private projects atm but occationaly will update certain projects like [VSCode Commit Reminder](https://github.com/Pepijn98/vscode-commit-reminder) | [Jeanne](https://github.com/Pepijn98/Jeanne) | [Apollo](https://github.com/Pepijn98/Apollo) | [Lilith](https://github.com/Pepijn98/Lilith) | [Mashu](https://github.com/Pepijn98/Mashu)
 - 🌱 Using/Learning languages/frameworks
     - I'm activly using Kotlin, TypeScript and VueJS/NuxtJS for backends I always go for ExpressJS
     - I'm looking into trying new web frameworks like React/NextJS, [Svelte](https://svelte.dev/) and for backends I really wanna learn Python (Django or Flask)
