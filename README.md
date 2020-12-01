@@ -26,7 +26,7 @@
 - 📫 How to reach me: [Email](mailto://pepijn@vdbroek.dev) | [Twitter](https://twitter.com/AsyncSenpai) | [Discord](https://discord.gg/p895czC)
 
 <i>
-    Discord usernames: AsyncSenpai#0001 or pepijn98#1561
+    Discord usernames: <b>AsyncSenpai#0001</b> or <b>pepijn98#1561</b>
     <br>
     Preferebly the 2nd one if it's more professional.
 </i>
