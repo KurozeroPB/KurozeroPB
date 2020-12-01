@@ -15,9 +15,18 @@
 
 - 🔭 I'm mostly working on private projects atm but occationaly will update certain projects like [VSCode Commit Reminder](https://github.com/Pepijn98/vscode-commit-reminder) | [Jeanne](https://github.com/Pepijn98/Jeanne) | [Apollo](https://github.com/Pepijn98/Apollo) | [Lilith](https://github.com/Pepijn98/Lilith) | [Mashu](https://github.com/Pepijn98/Mashu)
 - 🌱 Using/Learning languages/frameworks
-    - I'm activly using Kotlin, TypeScript and VueJS/NuxtJS for backends I always go for ExpressJS
-    - I'm looking into trying new web frameworks like React/NextJS, [Svelte](https://svelte.dev/) and for backends I really wanna learn Python (Django or Flask)
+    - My top most used languages are definitly Kotlin and TypeScript also by far my favorites to use
+    - For frontend I usually go for Vue.js with Nuxt.js and for backend Express.js
+    - I'm looking into trying new web frameworks like React with Next.js or [Svelte](https://svelte.dev/). Vue.js 3 is also looking promising!
+    - For backend I want to try and learn to use [Ktor](https://ktor.io/) which is in Kotlin
+      - I've used Kotlin for backend once before using [Javalin](https://javalin.io/), despite the name it's source code is mainly Kotlin.
     - I'm also looking into learning new languages like [Rust](https://www.rust-lang.org/), [Nim](https://nim-lang.org/) and [Julia](https://julialang.org/) they look very interesting to me.
 - 💰 If you like any of my work consider [sponsoring](https://github.com/sponsors/Pepijn98) me so I can keep my projects maintained
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email](mailto://pepijn@vdbroek.dev) | [Twitter](https://twitter.com/AsyncSenpai) | [Discord](https://discord.gg/p895czC)
+
+<i>
+    Discord usernames: AsyncSenpai#0001 or pepijn98#1561
+    <br>
+    Preferebly the 2nd one if it's more professional.
+</i>
