@@ -2,20 +2,29 @@
     <img width="1024" src="https://github.com/Pepijn98/Pepijn98/raw/master/assets/umaru.gif">
 </div> -->
 
-<table align="center">
+<!-- <table align="center">
     <tr valign="top">
         <td>
             <a target="_blank" href="https://vdbroek.dev">
-                <img src="https://github-readme-stats.vercel.app/api?username=Pepijn98&show_border=false&show_icons=true&title_color=84ffc8&text_color=fe84fd&bg_color=3c345c&icon_color=62ebfe">
+                <img src="https://github-readme-stats.vercel.app/api?username=Pepijn98&count_private=true&show_icons=true&theme=dracula">
             </a>
         </td>
         <td>
             <a target="_blank" href="https://vdbroek.dev">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepijn98&show_border=false&show_icons=true&title_color=84ffc8&text_color=fe84fd&bg_color=3c345c&icon_color=62ebfe">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pepijn98&layout=compact&theme=dracula">
             </a>
         </td>
     </tr>
-</table>
+</table> -->
+
+<div align="center">
+    <a target="_blank" href="https://vdbroek.dev">
+        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Pepijn98&count_private=true&show_icons=true&theme=dracula">
+    </a>
+    <a target="_blank" href="https://vdbroek.dev">
+        <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pepijn98&langs_count=8&layout=compact&theme=dracula">
+    </a>
+</div>
 
 ### Hi there 👋
 
