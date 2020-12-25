@@ -30,3 +30,9 @@
     <br>
     Preferebly the 2nd one if it's more professional.
 </i>
+
+<div align="right">
+    <img src="https://komarev.com/ghpvc/?username=Pepijn98&color=blueviolet&label">
+    <br>
+    <img src="https://hit.yhype.me/github/profile?user_id=14877471">
+</div>
