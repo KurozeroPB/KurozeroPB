@@ -13,7 +13,8 @@
 
 ### Hi there 👋
 
-- 🔭 I'm mostly working on private projects at the moment but occationaly will update certain projects like [VSCode Commit Reminder](https://github.com/Pepijn98/vscode-commit-reminder) | [Jeanne](https://github.com/Pepijn98/Jeanne) | [Apollo](https://github.com/Pepijn98/Apollo) | [Lilith](https://github.com/Pepijn98/Lilith) | [Mashu](https://github.com/Pepijn98/Mashu)
+- 🔭 I'm mostly working on private projects at the moment but occationaly will update certain projects
+     like [VSCode Commit Reminder](https://github.com/Pepijn98/vscode-commit-reminder) | [Jeanne](https://github.com/Pepijn98/Jeanne) | [Apollo](https://github.com/Pepijn98/Apollo) | [Lilith](https://github.com/Pepijn98/Lilith) | [Mashu](https://github.com/Pepijn98/Mashu)
 - 🌱 Using/Learning languages
     - My top most used languages are definitly Kotlin and TypeScript also by far my favorites to use
     - I'm looking into learning new languages like [Rust](https://www.rust-lang.org/), [Nim](https://nim-lang.org/) and [Julia](https://julialang.org/) they look very interesting to me.
