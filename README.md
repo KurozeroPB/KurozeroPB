@@ -21,7 +21,7 @@
 - 🌱 Using/Learning frameworks
     - For frontend I usually go for Vue.js with Nuxt.js and for backend Express.js
     - I'm looking into trying new web frameworks like React with Next.js or [Svelte](https://svelte.dev/). Vue.js 3 is also looking promising!
-    - For backend I want to try and learn to use [Ktor](https://ktor.io/) which is in Kotlin
+    - For backend I want to try and learn to use [Ktor](https://ktor.io/) which is in Kotlin \
       I've used Kotlin for backend once before using [Javalin](https://javalin.io/), despite the name it's source code is mainly Kotlin.
 - 💰 If you like any of my work consider [sponsoring](https://github.com/sponsors/Pepijn98) me so I can keep my projects maintained
 - 💬 Ask me about anything
