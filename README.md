@@ -28,5 +28,5 @@
 - 📫 How to reach me: [Email](mailto://pepijn@vdbroek.dev) | [Twitter](https://twitter.com/AsyncSenpai)
 
 <div align="right">
-    <img src="https://komarev.com/ghpvc/?username=Pepijn98&color=blueviolet&label">
+    <img src="https://komarev.com/ghpvc/?username=Pepijn98&color=blueviolet&label=views">
 </div>
