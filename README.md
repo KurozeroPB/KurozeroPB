@@ -7,7 +7,7 @@
         <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Pepijn98&count_private=true&show_icons=true&theme=dracula">
     </a>
     <a href="https://vdbroek.dev" target="_blank">
-        <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pepijn98&langs_count=8&layout=compact&theme=dracula">
+        <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pepijn98&langs_count=9&hide=html&layout=compact&theme=dracula">
     </a>
 </div>
 
