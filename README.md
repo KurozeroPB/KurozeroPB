@@ -31,7 +31,7 @@
 <img align="left" title="Visual Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/logos:visual-studio.svg?height=26" />
 <img align="left" title="Android Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/mdi:android-studio.svg?color=%2332DE84&height=26" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://api.iconify.design/vscode-icons:file-type-git.svg?height=26" />
-<img align="left" title="GitHub" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?height=26" />
+<img align="left" title="GitHub" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%237490ac&height=26" />
 <img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg?height=26" />
 <img align="left" title="Vue3" alt="Vue" width="26px" src="https://api.iconify.design/vscode-icons:file-type-vue.svg?height=26" />
 <img align="left" title="NGINX" alt="NGINX" width="26px" src="https://api.iconify.design/vscode-icons:file-type-nginx.svg?height=26" />
