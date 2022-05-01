@@ -3,7 +3,7 @@
 [twitter]: https://twitter.com/vdbroek98
 [sponsor]: https://github.com/sponsors/Pepijn98
 
-## Contact
+### Contact
 
 [<img align="left" alt="Mail" width="26px" src="https://api.iconify.design/cib:mail-ru.svg?color=%237490ac&height=26" />][email]
 [<img align="left" alt="vdbroek.dev" width="26px" src="https://api.iconify.design/bi:globe.svg?color=%237490ac&height=26" />][website]
@@ -12,7 +12,7 @@
 
 <br />
 
-## Languages
+### Languages
 
 <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg?height=26" />
 <img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-typescript-official.svg?height=26" />
@@ -25,7 +25,7 @@
 
 <br />
 
-## Tools
+### Tools
 
 <img align="left" title="" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/vscode-icons:file-type-vscode-insiders.svg?height=26" />
 <img align="left" title="Visual Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/logos:visual-studio.svg?height=26" />
@@ -70,8 +70,6 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=vscode-commit-reminder&show_owner=true&theme=nord&hide_border=true)](https://github.com/Pepijn98/vscode-commit-reminder)
 
 </details>
-
-<br />
 
 ### Sponsor
 [<img align="left" title="Sponsor" alt="Discord" width="32px" src="https://api.iconify.design/simple-icons:githubsponsors.svg?color=%23c96198&height=26" />][sponsor]
