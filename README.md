@@ -8,7 +8,7 @@
 [<img align="left" alt="Mail" width="26px" src="https://api.iconify.design/cib:mail-ru.svg?color=%237490ac&height=26" />][email]
 [<img align="left" alt="vdbroek.dev" width="26px" src="https://api.iconify.design/bi:globe.svg?color=%237490ac&height=26" />][website]
 [<img align="left" alt="Twitter" width="26px" src="https://api.iconify.design/logos:twitter.svg?height=26" />][twitter]
-<img align="left" title="pepijn98#1561" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?height=32" />
+<img align="left" title="pepijn98#1561" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?height=26" />
 
 <br />
 
@@ -72,5 +72,10 @@
 </details>
 
 <br />
+
+### Sponsor
+[<img align="left" title="Sponsor" alt="Discord" width="32px" src="https://api.iconify.design/simple-icons:githubsponsors.svg?color=%23c96198&height=26" />][sponsor]
+
+<br /><br />
 
 ![](https://komarev.com/ghpvc/?username=Pepijn98&color=blueviolet&label=views)
