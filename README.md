@@ -8,7 +8,7 @@
 [<img align="left" alt="Mail" width="26px" src="https://api.iconify.design/cib:mail-ru.svg?color=%237490ac&height=26" />][email]
 [<img align="left" alt="vdbroek.dev" width="26px" src="https://api.iconify.design/bi:globe.svg?color=%237490ac&height=26" />][website]
 [<img align="left" alt="Twitter" width="26px" src="https://api.iconify.design/logos:twitter.svg?height=26" />][twitter]
-<img align="left" title="pepijn98#1561" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?height=26" />
+<img align="left" title="pepijn98#1561" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?height=26" /> (`pepijn98#1561`)
 
 <br />
 
