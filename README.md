@@ -27,7 +27,7 @@
 
 ### Tools
 
-<img align="left" title="" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/vscode-icons:file-type-vscode-insiders.svg?height=26" />
+<img align="left" title="VSCode" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/vscode-icons:file-type-vscode-insiders.svg?height=26" />
 <img align="left" title="Visual Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/logos:visual-studio.svg?height=26" />
 <img align="left" title="Android Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/mdi:android-studio.svg?color=%2332DE84&height=26" />
 <img align="left" title="Git" alt="Git" width="26px" src="https://api.iconify.design/vscode-icons:file-type-git.svg?height=26" />
