@@ -15,39 +15,26 @@
 ## Languages
 
 <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg?height=26" />
-<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-typescript-official
-.svg?height=26" />
-<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://api.iconify.design/vscode-icons:file-type-node
-.svg?height=26" />
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://api.iconify.design/vscode-icons:file-type-html
-.svg?height=26" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://api.iconify.design/vscode-icons:file-type-css
-.svg?height=26" />
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-js-official
-.svg?height=26" />
-<img align="left" title="C#" alt="c-sharp" width="26px" src="https://api.iconify.design/logos:c-sharp
-.svg?height=26" />
+<img align="left" title="TypeScript" alt="TypeScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-typescript-official.svg?height=26" />
+<img align="left" title="Node.js" alt="Node.js" width="26px" src="https://api.iconify.design/vscode-icons:file-type-node.svg?height=26" />
+<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://api.iconify.design/vscode-icons:file-type-html.svg?height=26" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://api.iconify.design/vscode-icons:file-type-css.svg?height=26" />
+<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://api.iconify.design/vscode-icons:file-type-js-official.svg?height=26" />
+<img align="left" title="C#" alt="c-sharp" width="26px" src="https://api.iconify.design/logos:c-sharp.svg?height=26" />
 <img align="left" title="SCSS" alt="SCSS" width="26px" src="https://api.iconify.design/vscode-icons:file-type-scss2.svg?height=26" />
 
 <br />
 
 ## Tools
 
-<img align="left" title="" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/vscode-icons:file-type-vscode-insiders
-.svg?height=26" />
-<img align="left" title="Visual Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/logos:visual-studio
-.svg?height=26" />
-<img align="left" title="Android Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/mdi:android-studio
-.svg?color=%2332DE84&height=26" />
-<img align="left" title="Git" alt="Git" width="26px" src="https://api.iconify.design/vscode-icons:file-type-git
-.svg?height=26" />
+<img align="left" title="" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/vscode-icons:file-type-vscode-insiders.svg?height=26" />
+<img align="left" title="Visual Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/logos:visual-studio.svg?height=26" />
+<img align="left" title="Android Studio" alt="Sublime Text" width="26px" src="https://api.iconify.design/mdi:android-studio.svg?color=%2332DE84&height=26" />
+<img align="left" title="Git" alt="Git" width="26px" src="https://api.iconify.design/vscode-icons:file-type-git.svg?height=26" />
 <img align="left" title="GitHub" alt="GitHub" width="26px" src="https://api.iconify.design/simple-icons:github.svg?height=26" />
-<img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://api.iconify.design/vscode-icons:file-type-mongo
-.svg?height=26" />
-<img align="left" title="Vue3" alt="Vue" width="26px" src="https://api.iconify.design/vscode-icons:file-type-vue
-.svg?height=26" />
-<img align="left" title="NGINX" alt="NGINX" width="26px" src="https://api.iconify.design/vscode-icons:file-type-nginx
-.svg?height=26" />
+<img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://api.iconify.design/vscode-icons:file-type-mongo.svg?height=26" />
+<img align="left" title="Vue3" alt="Vue" width="26px" src="https://api.iconify.design/vscode-icons:file-type-vue.svg?height=26" />
+<img align="left" title="NGINX" alt="NGINX" width="26px" src="https://api.iconify.design/vscode-icons:file-type-nginx.svg?height=26" />
 <img align="left" title="Express" alt="Express" width="26px" src="https://api.iconify.design/simple-icons:express.svg?color=%23626262&height=26" />
 
 <br />
