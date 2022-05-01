@@ -10,8 +10,6 @@
 [<img align="left" alt="Twitter" width="26px" src="https://api.iconify.design/logos:twitter.svg?height=26" />][twitter]
 <img align="left" title="pepijn98#1561" alt="Discord" width="32px" src="https://api.iconify.design/logos:discord-icon.svg?height=26" /> **`pepijn98#1561`**
 
-<br />
-
 ### Languages
 
 <img align="left" title="Kotlin" alt="Kotlin" width="26px" src="https://api.iconify.design/vscode-icons:file-type-kotlin.svg?height=26" />
