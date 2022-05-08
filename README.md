@@ -1,7 +1,7 @@
 [email]: mailto://pepijn@vdbroek.dev
 [website]: https://vdbroek.dev/
 [twitter]: https://twitter.com/vdbroek98
-[discord]: https://discord.com/users/93973697643155456
+[discord]: https://discord.com/users/964236379817136230
 [sponsor]: https://github.com/sponsors/Pepijn98
 
 ### Contact
