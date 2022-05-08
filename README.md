@@ -47,9 +47,9 @@
 <a href="https://vdbroek.dev" target="_blank">
     <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pepijn98&langs_count=10&hide=html,css&card_width=495&layout=compact&hide_border=true&theme=nord">
 </a>
-<a href="https://wakatime.com/@Pepijn98" target="_blank">
+<!-- <a href="https://wakatime.com/@Pepijn98" target="_blank">
     <img height="210px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pepijn98&layout=compact&hide_border=true&theme=nord">
-</a>
+</a> -->
 
 ---
 
