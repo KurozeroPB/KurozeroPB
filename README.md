@@ -6,15 +6,15 @@
 
 ### Contact
 
-[<img align="left" alt="Mail" width="26px" src="https://b.catgirlsare.sexy/ChTuC9ENNEZn.svg" />][email]
-[<img align="left" alt="vdbroek.dev" width="26px" src="https://b.catgirlsare.sexy/xAulEh1jUpro.svg" />][website]
-[<img align="left" alt="Twitter" width="26px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="Discord" width="26px" src="https://skillicons.dev/icons?i=discord" />][discord] **`pepijn98#1561`**
+[<img align="left" alt="Mail" width="32px" src="https://b.catgirlsare.sexy/ChTuC9ENNEZn.svg" />][email]
+[<img align="left" alt="vdbroek.dev" width="32px" src="https://b.catgirlsare.sexy/xAulEh1jUpro.svg" />][website]
+[<img align="left" alt="Twitter" width="32px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
+[<img align="left" alt="Discord" width="32px" src="https://skillicons.dev/icons?i=discord" />][discord] **`pepijn98#1561`**
 
 ### Languages
 
 <a href="https://vdbroek.dev">
-    <img align="left" height="32px" title="Languages" alt="langs" src="https://skillicons.dev/icons?i=kotlin,ts,js,nodejs,html,css,cs,dotnet,sass" />
+    <img align="left" title="Languages" alt="langs" src="https://skillicons.dev/icons?i=kotlin,ts,js,nodejs,html,css,cs,dotnet,sass" />
 </a>
 
 <br />
@@ -22,7 +22,7 @@
 ### Tools
 
 <a href="https://vdbroek.dev">
-    <img align="left" height="32px" title="Tools" alt="tools" src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,git,mongodb,vue,nuxtjs,nginx,express,ktor,bots" />
+    <img align="left" title="Tools" alt="tools" src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,git,mongodb,vue,nuxtjs,nginx,express,ktor,bots" />
 </a>
 
 <br />
