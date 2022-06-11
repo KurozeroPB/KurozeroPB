@@ -41,23 +41,47 @@
 ---
 
 <details>
-  <summary><b>Projects</b></summary><br />
+    <summary>
+        <b>Projects</b>
+    </summary>
+    
+  <br />
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Lilith&show_owner=true&theme=nord&hide_border=true)](https://github.com/Pepijn98/Lilith)
+  <div style="display: flex; flex-direction: row;">
+      <a style="padding-right: 5px;" href="https://github.com/Pepijn98/Lilith">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Lilith&show_owner=true&theme=nord&hide_border=true" />
+      </a>
+      <a href="https://github.com/Pepijn98/Kyra">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Kyra&show_owner=true&theme=nord&hide_border=true" />
+      </a>
+  </div>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Kyra&show_owner=true&theme=nord&hide_border=true)](https://github.com/Pepijn98/Kyra)
+  <div style="display: flex; flex-direction: row;">
+      <a style="padding-right: 5px;" href="https://github.com/Pepijn98/Nekos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Nekos&show_owner=true&theme=nord&hide_border=true" />
+      </a>
+      <a href="https://github.com/orlandos-nl/NioDNS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=orlandos-nl&repo=NioDNS&show_owner=true&theme=nord&hide_border=true" />
+      </a>
+  </div>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Nekos&show_owner=true&theme=nord&hide_border=true)](https://github.com/Pepijn98/Nekos)
+  <div style="display: flex; flex-direction: row;">
+      <a style="padding-right: 5px;" href="https://github.com/future-id/mdr-cli">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=future-id&repo=mdr-cli&show_owner=true&theme=nord&hide_border=true" />
+      </a>
+      <a href="https://github.com/Pepijn98/Kitsu">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Kitsu&show_owner=true&theme=nord&hide_border=true" />
+      </a>
+  </div>
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=orlandos-nl&repo=NioDNS&show_owner=true&theme=nord&hide_border=true)](https://github.com/orlandos-nl/NioDNS)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=future-id&repo=mdr-cli&show_owner=true&theme=nord&hide_border=true)](https://github.com/future-id/mdr-cli)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Kitsu&show_owner=true&theme=nord&hide_border=true)](https://github.com/Pepijn98/Kitsu)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&show_owner=true&repo=CustomRPC&theme=nord&hide_border=true)](https://github.com/Pepijn98/CustomRPC)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=vscode-commit-reminder&show_owner=true&theme=nord&hide_border=true)](https://github.com/Pepijn98/vscode-commit-reminder)
+  <div style="display: flex; flex-direction: row;">
+      <a style="padding-right: 5px;" href="https://github.com/Pepijn98/CustomRPC">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&show_owner=true&repo=CustomRPC&theme=nord&hide_border=true" />
+      </a>
+      <a href="https://github.com/Pepijn98/vscode-commit-reminder">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=vscode-commit-reminder&show_owner=true&theme=nord&hide_border=true" />
+      </a>
+  </div>
 
 </details>
 
