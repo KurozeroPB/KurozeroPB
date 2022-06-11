@@ -48,7 +48,7 @@
   <br />
 
   <div style="display: flex; flex-direction: row;">
-      <a style="padding-right: 5px;" href="https://github.com/Pepijn98/Lilith">
+      <a style="padding-right: 6px; text-decoration: none;" href="https://github.com/Pepijn98/Lilith">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Lilith&show_owner=true&theme=nord&hide_border=true" />
       </a>
       <a href="https://github.com/Pepijn98/Kyra">
@@ -57,7 +57,7 @@
   </div>
 
   <div style="display: flex; flex-direction: row;">
-      <a style="padding-right: 5px;" href="https://github.com/Pepijn98/Nekos">
+      <a style="padding-right: 6px; text-decoration: none;" href="https://github.com/Pepijn98/Nekos">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Nekos&show_owner=true&theme=nord&hide_border=true" />
       </a>
       <a href="https://github.com/orlandos-nl/NioDNS">
@@ -66,7 +66,7 @@
   </div>
 
   <div style="display: flex; flex-direction: row;">
-      <a style="padding-right: 5px;" href="https://github.com/future-id/mdr-cli">
+      <a style="padding-right: 6px; text-decoration: none;" href="https://github.com/future-id/mdr-cli">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=future-id&repo=mdr-cli&show_owner=true&theme=nord&hide_border=true" />
       </a>
       <a href="https://github.com/Pepijn98/Kitsu">
@@ -75,7 +75,7 @@
   </div>
 
   <div style="display: flex; flex-direction: row;">
-      <a style="padding-right: 5px;" href="https://github.com/Pepijn98/CustomRPC">
+      <a style="padding-right: 6px; text-decoration: none;" href="https://github.com/Pepijn98/CustomRPC">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&show_owner=true&repo=CustomRPC&theme=nord&hide_border=true" />
       </a>
       <a href="https://github.com/Pepijn98/vscode-commit-reminder">
