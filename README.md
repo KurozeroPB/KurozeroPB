@@ -32,10 +32,10 @@
 ---
 
 <a href="https://vdbroek.dev" target="_blank">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=Pepijn98&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord">
+    <img height="190px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pepijn98&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=nord">
 </a>
 <a href="https://vdbroek.dev" target="_blank">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pepijn98&langs_count=10&hide=html,css&card_width=495&layout=compact&hide_border=true&theme=nord">
+    <img height="190px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Pepijn98&langs_count=10&hide=html,css&card_width=495&layout=compact&hide_border=true&theme=nord">
 </a>
 
 ---
@@ -49,37 +49,37 @@
 
   <div style="display: flex; flex-direction: row;">
       <a style="padding-right: 6px;" href="https://github.com/Pepijn98/Lilith">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Lilith&show_owner=true&theme=nord&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pepijn98&repo=Lilith&show_owner=true&theme=nord&hide_border=true" />
       </a>
       <a style="padding-left: 4px;" href="https://github.com/Pepijn98/Kyra">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Kyra&show_owner=true&theme=nord&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pepijn98&repo=Kyra&show_owner=true&theme=nord&hide_border=true" />
       </a>
   </div>
 
   <div style="display: flex; flex-direction: row;">
       <a style="padding-right: 6px;" href="https://github.com/Pepijn98/Nekos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Nekos&show_owner=true&theme=nord&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pepijn98&repo=Nekos&show_owner=true&theme=nord&hide_border=true" />
       </a>
       <a style="padding-left: 4px;" href="https://github.com/orlandos-nl/NioDNS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=orlandos-nl&repo=NioDNS&show_owner=true&theme=nord&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=orlandos-nl&repo=NioDNS&show_owner=true&theme=nord&hide_border=true" />
       </a>
   </div>
 
   <div style="display: flex; flex-direction: row;">
       <a style="padding-right: 6px;" href="https://github.com/future-id/mdr-cli">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=future-id&repo=mdr-cli&show_owner=true&theme=nord&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=future-id&repo=mdr-cli&show_owner=true&theme=nord&hide_border=true" />
       </a>
       <a style="padding-left: 4px;" href="https://github.com/Pepijn98/Kitsu">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=Kitsu&show_owner=true&theme=nord&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pepijn98&repo=Kitsu&show_owner=true&theme=nord&hide_border=true" />
       </a>
   </div>
 
   <div style="display: flex; flex-direction: row;">
       <a style="padding-right: 6px;" href="https://github.com/Pepijn98/CustomRPC">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&show_owner=true&repo=CustomRPC&theme=nord&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pepijn98&show_owner=true&repo=CustomRPC&theme=nord&hide_border=true" />
       </a>
       <a style="padding-left: 4px;" href="https://github.com/Pepijn98/vscode-commit-reminder">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pepijn98&repo=vscode-commit-reminder&show_owner=true&theme=nord&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Pepijn98&repo=vscode-commit-reminder&show_owner=true&theme=nord&hide_border=true" />
       </a>
   </div>
 
