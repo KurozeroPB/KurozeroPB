@@ -1,20 +1,23 @@
 [email]: mailto://pepijn@vdbroek.dev
 [website]: https://vdbroek.dev/
-[twitter]: https://twitter.com/vdbroek98
-[discord]: https://discord.com/users/964236379817136230
+[twitter]: https://twitter.com/pepijn_98
+[discord]: https://discord.com/users/964236379817136230 "username: pepijn98"
 [sponsor]: https://github.com/sponsors/Pepijn98
 
 ### Contact
 
 [<img align="left" alt="Mail" width="32px" src="https://b.catgirlsare.sexy/ChTuC9ENNEZn.svg" />][email]
-[<img align="left" alt="vdbroek.dev" width="32px" src="https://b.catgirlsare.sexy/xAulEh1jUpro.svg" />][website]
+[<img align="left" alt="Portfolio" width="32px" src="https://b.catgirlsare.sexy/xAulEh1jUpro.svg" />][website]
 [<img align="left" alt="Twitter" width="32px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="Discord" width="32px" src="https://skillicons.dev/icons?i=discord" />][discord] **`pepijn98#1561`**
+[<img align="left" alt="Discord" width="32px" src="https://skillicons.dev/icons?i=discord" />][discord]
+
+<br />
+<br />
 
 ### Languages
 
 <a href="https://vdbroek.dev">
-    <img align="left" title="Languages" alt="langs" src="https://skillicons.dev/icons?i=kotlin,ts,js,nodejs,html,css,cs,dotnet,sass" />
+    <img align="left" title="Languages" alt="langs" src="https://skillicons.dev/icons?i=go,rust,kotlin,ts,js,nodejs,cs,dotnet,html,css,sass" />
 </a>
 
 <br />
@@ -22,8 +25,21 @@
 
 ### Tools
 
+#### IDEs
 <a href="https://vdbroek.dev">
-    <img align="left" title="Tools" alt="tools" src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,git,mongodb,vue,nuxtjs,nginx,express,ktor,bots" />
+    <img align="left" title="IDE" alt="tools" src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" />
+</a>
+<br />
+
+#### Frameworks & Libraries
+<a href="https://vdbroek.dev">
+    <img align="left" title="Tools" alt="tools" src="https://skillicons.dev/icons?i=vue,nuxtjs,vite,nginx,express,ktor" />
+</a>
+<br />
+
+#### Other
+<a href="https://vdbroek.dev">
+    <img align="left" title="Tools" alt="tools" src="https://skillicons.dev/icons?i=git,sqlite,postgres,mongodb,bash,pwsh,linux,cf,aws" />
 </a>
 
 <br />
