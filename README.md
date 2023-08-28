@@ -4,7 +4,7 @@
 [discord]: https://discord.com/users/964236379817136230 "username: pepijn98"
 [sponsor]: https://github.com/sponsors/Pepijn98
 
-### Contact
+## Contact
 
 [<img align="left" alt="Mail" width="32px" src="https://b.catgirlsare.sexy/ChTuC9ENNEZn.svg" />][email]
 [<img align="left" alt="Portfolio" width="32px" src="https://b.catgirlsare.sexy/xAulEh1jUpro.svg" />][website]
@@ -14,7 +14,7 @@
 <br />
 <br />
 
-### Languages
+## Languages
 
 <a href="https://vdbroek.dev">
     <img align="left" title="Languages" alt="langs" src="https://skillicons.dev/icons?i=go,rust,kotlin,ts,js,nodejs,cs,dotnet,html,css,sass" />
@@ -24,7 +24,7 @@
 <br />
 <br />
 
-### Tools
+## Tools
 
 #### IDEs
 <a href="https://vdbroek.dev">
