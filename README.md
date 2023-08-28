@@ -6,10 +6,10 @@
 
 ## Contact
 
-[<img align="left" alt="Mail" width="32px" src="https://b.catgirlsare.sexy/ChTuC9ENNEZn.svg" />][email]
-[<img align="left" alt="Portfolio" width="32px" src="https://b.catgirlsare.sexy/xAulEh1jUpro.svg" />][website]
-[<img align="left" alt="Twitter" width="32px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
-[<img align="left" alt="Discord" width="32px" src="https://skillicons.dev/icons?i=discord" />][discord]
+[<img align="left" alt="Mail" width="48px" src="https://b.catgirlsare.sexy/ChTuC9ENNEZn.svg" />][email]
+[<img align="left" alt="Portfolio" width="48px" src="https://b.catgirlsare.sexy/xAulEh1jUpro.svg" />][website]
+[<img align="left" alt="Twitter" width="48px" src="https://skillicons.dev/icons?i=twitter" />][twitter]
+[<img align="left" alt="Discord" width="48px" src="https://skillicons.dev/icons?i=discord" />][discord]
 
 <br />
 <br />
